@@ -1,2 +1,9 @@
 flask
 gunicorn
+numpy
+pandas
+pandas_datareader
+scikit-learn
+matplotlib
+keras
+tensorflow==2.2.0
